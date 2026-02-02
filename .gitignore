@@ -16,7 +16,6 @@ dist-ssr
 coverage
 
 # Editor directories and files
-.vscode/*
 !.vscode/extensions.json
 .idea
 .DS_Store
@@ -27,6 +26,5 @@ coverage
 *.sw?
 
 # Environment files
-.env
-.env.local
 .env.*.local
+config.bat
